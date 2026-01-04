@@ -2,7 +2,7 @@
 
 **`Cibersecurity | Programming | Computer Science Student`**
 
-Hello world, I am currently studying a BSc in Computer Science (3/8) at UNIP, with a primary focus on programming. In parallel, I have been dedicating my time to complementary studies in cybersecurity, the field in which I aim to build my professional career.
+Hello world, Entry-level Help Desk / IT Support professional with hands-on training in desktop and laptop technical support, operating systems, and incident resolution. Dedicated, proactive, and communicative profile with a strong technical focus. Knowledge of Windows, Linux, virtualization, networking, remote support, and ticketing systems.
 
 ---
 
