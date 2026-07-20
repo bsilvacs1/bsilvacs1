@@ -12,25 +12,43 @@
 
 ---
 
+<div align="center">
+
 # 🌐 Welcome to my GitHub!
 
+</div>
+
+---
+
+<div align="center">
+
 I'm **Bruno Silva**, focused on **defensive security (Blue Team)**.
-Entry-level **SOC Analyst Intern** in continuous training in information security, with a solid base in networking, operating systems, and virtualization.
+Entry-level **SOC Analyst Intern**, in continuous training in information security, with a solid base in networking, operating systems, and virtualization.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunonsilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsilvacs1@gmail.com)
+
+</div>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDRmZiIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZWY0NDQ0Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0IiBmaWxsPSJ1cmwoI2cpIi8+PC9zdmc+" width="100%"/>
 
 ---
 
 ### 🛡️ SOC Analyst | Blue Team | Information Security
 
+---
+
 💠 Focado em **detecção de ameaças**, análise de logs e resposta a incidentes.
 
 ⚙️ Em formação contínua em segurança da informação e cloud security.
 
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDRmZiIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZWY0NDQ0Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0IiBmaWxsPSJ1cmwoI2cpIi8+PC9zdmc+" width="100%"/>
+
 ---
 
 ### ⚙️ Tech Stack
+
+---
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -42,58 +60,118 @@ Entry-level **SOC Analyst Intern** in continuous training in information securit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 </p>
 
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDRmZiIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZWY0NDQ0Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0IiBmaWxsPSJ1cmwoI2cpIi8+PC9zdmc+" width="100%"/>
+
 ---
 
 ### 🥇 Certifications & Badges
 
-[![Fortinet Certified Fundamentals in Cybersecurity](https://img.shields.io/badge/Fortinet-Certified%20Fundamentals%20in%20Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com/training)
-[![ISO/IEC 27001:2022 Information Security Associate](https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022-Information%20Security%20Associate-003087?style=for-the-badge&logo=iso&logoColor=white)](https://skillfront.com/)
+---
+
+<table>
+<tr>
+<td align="center" width="180">
+<a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity"><img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="90"/></a><br/>
+<b>Fortinet Certified<br/>Fundamentals in Cybersecurity</b><br/>
+<sub>Fortinet</sub>
+</td>
+<td align="center" width="180">
+<a href="https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate"><img src="https://www.skillfront.com/badge-files/98474892927416.png" width="90"/></a><br/>
+<b>ISO/IEC 27001:2022<br/>Information Security Associate</b><br/>
+<sub>SkillFront</sub>
+</td>
+</tr>
+</table>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDRmZiIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZWY0NDQ0Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0IiBmaWxsPSJ1cmwoI2cpIi8+PC9zdmc+" width="100%"/>
 
 ---
 
 ### 🔜 Upcoming Certifications
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-CC0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
-[![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/certifications/azure-fundamentals/)
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+---
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="80"/><br/>
+<b>Security+</b><br/>
+<sub>CompTIA</sub>
+</td>
+<td align="center" width="150">
+<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="80"/><br/>
+<b>AZ-900</b><br/>
+<sub>Microsoft Azure</sub>
+</td>
+<td align="center" width="150">
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80"/><br/>
+<b>Cloud Practitioner</b><br/>
+<sub>AWS</sub>
+</td>
+</tr>
+</table>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDRmZiIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZWY0NDQ0Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0IiBmaWxsPSJ1cmwoI2cpIi8+PC9zdmc+" width="100%"/>
 
 ---
 
 ### ⚡ Key Skills
+
+---
 
 - 🔎 **Threat Detection** — análise de logs, monitoramento e identificação de anomalias
 - 🚨 **Incident Response** — triagem e escalonamento de incidentes de segurança
 - 🌐 **Networking & Systems** — Windows, Linux, virtualização, redes e suporte remoto
 - 📋 **Security Frameworks** — noções de ISO/IEC 27001 e boas práticas de gestão de segurança da informação
 
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDRmZiIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZWY0NDQ0Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0IiBmaWxsPSJ1cmwoI2cpIi8+PC9zdmc+" width="100%"/>
+
 ---
 
 ### 🎯 TryHackMe
 
+---
+
 > 🕒 Perfil em construção — em breve por aqui.
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDRmZiIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZWY0NDQ0Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0IiBmaWxsPSJ1cmwoI2cpIi8+PC9zdmc+" width="100%"/>
 
 ---
 
 ### 🟩 HackTheBox
 
+---
+
 > ⚠️ In progress...
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDRmZiIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZWY0NDQ0Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0IiBmaWxsPSJ1cmwoI2cpIi8+PC9zdmc+" width="100%"/>
 
 ---
 
 ### 📈 Stats
 
+---
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsilvacs1&show_icons=true&theme=dark)](https://github.com/bsilvacs1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsilvacs1&theme=dark&layout=compact)](https://github.com/bsilvacs1)
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDRmZiIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZWY0NDQ0Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0IiBmaWxsPSJ1cmwoI2cpIi8+PC9zdmc+" width="100%"/>
 
 ---
 
 ### 🐍 Contributions
 
+---
+
 [![GitHub contribution snake](https://github.com/bsilvacs1/bsilvacs1/raw/output/github-snake-dark.svg)](https://github.com/bsilvacs1/bsilvacs1/blob/output/github-snake-dark.svg)
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwZDRmZiIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZWY0NDQ0Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0IiBmaWxsPSJ1cmwoI2cpIi8+PC9zdmc+" width="100%"/>
 
 ---
 
 ### 🌐 Connect with me
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunonsilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsilvacs1@gmail.com)
