@@ -116,7 +116,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### ⚡ Key Skills
-
 ---
 
 - 🔎 **Threat Detection** — análise de logs, monitoramento e identificação de anomalias
@@ -129,7 +128,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### 🎯 TryHackMe
-
 ---
 
 > 🕒 Perfil em construção — em breve por aqui.
