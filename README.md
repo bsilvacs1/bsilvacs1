@@ -153,8 +153,10 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ### 📈 Stats
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsilvacs1&show_icons=true&theme=dark)](https://github.com/bsilvacs1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsilvacs1&theme=dark&layout=compact)](https://github.com/bsilvacs1)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bsilvacs1&theme=github_dark)](https://github.com/bsilvacs1)
+[![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bsilvacs1&theme=github_dark)](https://github.com/bsilvacs1)
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsilvacs1&theme=github_dark)](https://github.com/bsilvacs1)
 
 ---
 
