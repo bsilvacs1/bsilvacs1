@@ -87,26 +87,30 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### 🔜 Upcoming Certifications
+
+</td></tr>
+</table>
+
 ---
 
 <table border="1" cellspacing="0" cellpadding="10">
 <tr>
-<td align="center" width="150">
+<td align="center" valign="bottom" width="150">
 <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="80"/><br/>
 <b>Security+</b><br/>
 <sub>CompTIA</sub><br/><br/>
 <img src="https://geps.dev/progress/0" />
 </td>
-<td align="center" width="150">
+<td align="center" valign="bottom" width="150">
 <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="80"/><br/>
 <b>AZ-900</b><br/>
 <sub>Microsoft Azure</sub><br/><br/>
 <img src="https://geps.dev/progress/1" />
 </td>
-<td align="center" width="150">
+<td align="center" valign="bottom" width="150">
 <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80"/><br/>
-<b>Cloud Practitioner</b><br/>
-<sub>AWS</sub><br/><br/>
+<b>CCP</b><br/>
+<sub>AWS Cloud Practitioner</sub><br/><br/>
 <img src="https://geps.dev/progress/1" />
 </td>
 </tr>
