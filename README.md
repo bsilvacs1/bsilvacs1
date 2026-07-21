@@ -35,7 +35,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### 🛡️ SOC Analyst | Blue Team | Information Security
-
 ---
 
 💠 Focado em **detecção de ameaças**, análise de logs e resposta a incidentes.
@@ -47,7 +46,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### ⚙️ Tech Stack
-
 ---
 
 <table border="1" cellspacing="0" cellpadding="10">
@@ -67,7 +65,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### 🥇 Certifications & Badges
-
 ---
 
 <table border="1" cellspacing="0" cellpadding="10">
@@ -90,7 +87,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### 🔜 Upcoming Certifications
-
 ---
 
 <table border="1" cellspacing="0" cellpadding="10">
@@ -99,19 +95,19 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="80"/><br/>
 <b>Security+</b><br/>
 <sub>CompTIA</sub><br/><br/>
-<img src="https://geps.dev/progress/40" />
+<img src="https://geps.dev/progress/0" />
 </td>
 <td align="center" width="150">
 <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="80"/><br/>
 <b>AZ-900</b><br/>
 <sub>Microsoft Azure</sub><br/><br/>
-<img src="https://geps.dev/progress/55" />
+<img src="https://geps.dev/progress/1" />
 </td>
 <td align="center" width="150">
 <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80"/><br/>
 <b>Cloud Practitioner</b><br/>
 <sub>AWS</sub><br/><br/>
-<img src="https://geps.dev/progress/20" />
+<img src="https://geps.dev/progress/1" />
 </td>
 </tr>
 </table>
@@ -121,7 +117,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### ⚡ Key Skills
-
 ---
 
 - 🔎 **Threat Detection** — análise de logs, monitoramento e identificação de anomalias
@@ -134,7 +129,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### 🎯 TryHackMe
-
 ---
 
 > 🕒 Perfil em construção — em breve por aqui.
@@ -144,7 +138,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### 🟩 HackTheBox
-
 ---
 
 > ⚠️ In progress...
@@ -154,7 +147,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### 📈 Stats
-
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsilvacs1&show_icons=true&theme=dark)](https://github.com/bsilvacs1)
@@ -165,7 +157,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### 🐍 Contributions
-
 ---
 
 [![GitHub contribution snake](https://github.com/bsilvacs1/bsilvacs1/raw/output/github-snake-dark.svg)](https://github.com/bsilvacs1/bsilvacs1/blob/output/github-snake-dark.svg)
@@ -175,7 +166,6 @@ Entry-level **SOC Analyst Intern**, in continuous training in information securi
 ---
 
 ### 🌐 Connect with me
-
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunonsilva/)
